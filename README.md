@@ -76,12 +76,6 @@ g++ main.cpp -o bank
 
 ## 🔑 Default Admin
 
-Add this to Users.txt: admin\|admin123\|-1
-
-------------------------------------------------------------------------
-
-## 👨‍💻 Author
-
-Developed for educational purposes.
+Add this to Users.txt: admin|1234|-1
 
 ------------------------------------------------------------------------
