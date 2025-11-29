@@ -62,17 +62,6 @@ Each user has specific permissions stored as **bitmasks**.
 
 ------------------------------------------------------------------------
 
-## 🚀 How to Run
-
-### Compile
-
-g++ main.cpp -o bank
-
-### Run
-
-./bank
-
-------------------------------------------------------------------------
 
 ## 🔑 Default Admin
 
